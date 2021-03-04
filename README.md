@@ -1,5 +1,3 @@
-# StashAway
-StashAway funds manager
 OK bros, to use this solution, import  StashAway from  stashaway.js
 The Stashaway object has 3 methods:
 METHOD 1: addPortfolio("pass a portfolio to save")
